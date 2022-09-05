@@ -1,0 +1,44 @@
+{
+    "Students": [
+        {
+            "id": 1,
+            "first-name": "Deepak",
+            "last-name": "jeyaraj",
+            "email": "deepcop29@gmail.com",
+            "gender": "Male",
+            "status": "Active"
+        },
+        {
+            "id": 2,
+            "first-name": "lithu",
+            "last-name": "jeyaraj",
+            "email": "deepcop29@gmail.com",
+            "gender": "Male",
+            "status": "Active"
+        },
+        {
+            "id": 3,
+            "first-name": "lokesh",
+            "last-name": "jeyaraj",
+            "email": "deepcop29@gmail.com",
+            "gender": "Male",
+            "status": "Active"
+        },
+        {
+            "id": 4,
+            "first-name": "Raj",
+            "last-name": "jeyaraj",
+            "email": "deepcop29@gmail.com",
+            "gender": "Male",
+            "status": "Active"
+        },
+        {
+            "id": 5,
+            "first-name": "vikram",
+            "last-name": "jeyaraj",
+            "email": "deepcop29@gmail.com",
+            "gender": "Male",
+            "status": "Active"
+        }
+    ]
+}
